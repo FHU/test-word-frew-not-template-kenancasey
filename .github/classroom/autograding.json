@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "demo",
+      "setup": "",
+      "run": "python main.py",
+      "input": "Hello hi Lisa hi lisa",
+      "output": "Hello - 1\r\nhi - 2\r\nLisa - 1\r\nlisa - 1\r\n",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 100
+    }
+  ]
+}
