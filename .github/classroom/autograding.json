@@ -9,6 +9,16 @@
       "comparison": "exact",
       "timeout": 1,
       "points": 100
+    },
+    {
+      "name": "demo2",
+      "setup": "",
+      "run": "python main.py",
+      "input": "hello",
+      "output": "hello - 1\r\n",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
     }
   ]
 }
